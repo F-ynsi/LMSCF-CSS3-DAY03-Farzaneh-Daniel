@@ -67,6 +67,50 @@
   height: 70px;
   font-size: 30px;
   background: green;
-  
+
+}
+
+footer {
+  background-color:#C7BBB8;
+  text-align: center; 
+}
+footer >img {
+  width: 120px;
+  padding-top: 10px;
+}
+
+footer >p {
+  padding-bottom: 20px;
+  font-size: 10px;
+}
+
+.firstContant {
+  text-align: center;
+box-shadow: 5px 5px 32px 24px rgba(0,0,0,0.99); 
+box-shadow: 5px 5px 32px 24px rgba(0,0,0,0.99);
+width: 350px;
+margin: 50px;
+margin-left: auto;
+margin-right: auto;
+}
+.firstContant >h1 {
+  padding: 10px;
+  background: red;
+}
+
+.secondContant{
+  text-align: center;
+  font-size: 40px;
+  margin: 100px;
+
+
+
+}
+
+.secondContant>span {
+color: #FFFFFF;
+background: #FFFFFF;
+text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+
 
 }
